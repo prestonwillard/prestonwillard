@@ -1,7 +1,6 @@
+
 <p align="center">
-<img src="https://64.media.tumblr.com/d17960302f6c1f53c3fced99b678644a/da41169f124f37f0-94/s2048x3072/92107f2e6d3241c458f309f019dd79a406e5b3a5.pnj" width="800"/>
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=prestonwillard&label=toys&color=858481&style=flat" />
+<a href="https://hits.sh/github.com/preston-willard/"><img alt="Hits" src="https://hits.sh/github.com/preston-willard.svg?style=for-the-badge&label=(%EF%BD%A1%E1%B5%95%20%E2%97%9E%20_%E2%97%9F)&color=9D998E&labelColor=000000"/></a>
 </p>
 
 <p align="center">
@@ -19,23 +18,29 @@ ${\color{#F3F3F1}\text{I}}$⠀⠀ ${\color{#DEDCD9}\text{just}}$⠀⠀ ${\color{
 
 <p align="center">
   <sub>
-<img src="https://64.media.tumblr.com/ee698a3d07ffcaa8dba359fedce46c37/fa03c334b868ef0b-f1/s75x75_c1/7c4dc40494ad1c06b4f2c11be4fd8aa6601a3fc2.gifv">ㅤ<a href="https://kittydummy.atabook.org">ᥲtᥲ</a>ㅤ
-<a href="https://guns.lol/meowzus">gυᥒs</a>ㅤ
-<a href="https://evawuffz.straw.page/">strᥲw</a>ㅤ
-<a href="https://pronouns.cc/@evanuma">ρrᥒs</a>ㅤ
-<a href="https://rentry.co/evawuffz">rᥱᥒtry</a>ㅤ<img src="https://64.media.tumblr.com/d6618fb1bdd201321fd75270137492bc/a2f931b3f7b7ae62-ac/s75x75_c1/29956a7cbc6694e4a5f3f93178f17cd9ff63f680.gifv">
-  </sub>
+${\color{#BCBCAB}\text{ic: sketchtastrophe on tumblr}}$
+</sub>
 </p>
 <p align="center">
-<img src="https://github.com/prestonwillard/prestonwillard/blob/40cd0b354df876e9dce8b2bde3d1e66e22fdbb93/ezgif-3a8b939c17d8f4ef.gif" width="150" />
-  <br>
+${\color{#C8C6C0}\text{we’re usually nonverbal, so don’t expect replies unless close friends}}$ <br>
+${\color{#858481}\text{doubles dni , nonsharing yume . dnc nor take inspo strictly}}$
+</p>
+
+<p align="center">
+  <a href="https://kittydummy.atabook.org/">
+    <img src="https://github.com/lezusirl/lezusirl/blob/68c87b9657296b2f9a59e96705d72311f88ac968/ata%20lezu.webp" width="120"/>
+  </a>⠀⠀⠀⠀
+<a href="https://evawuffz.straw.page/">
+    <img src="https://github.com/lezusirl/lezusirl/blob/68c87b9657296b2f9a59e96705d72311f88ac968/ITS%20IMPORTANT%20LMA.webp" width="120"/>
+  </a>ㅤㅤ⠀
+  <a href="https://rentry.co/evawuffz">
+    <img src="https://github.com/lezusirl/lezusirl/blob/68c87b9657296b2f9a59e96705d72311f88ac968/rentryco.webp" width="120"/>
+  </a>
+</p>
+
+</p>
 <p align="center">
 <sub>
-${\color{#C8C6C0}\text{kin + nonsharing selfshipper . doubles dni}}$ <br>
-${\color{#858481}\text{(no we won't throw a hissy fit over doubles... we'll just block you)}}$
-</sub>
-
-<p align="center">
-<img src="https://64.media.tumblr.com/d17960302f6c1f53c3fced99b678644a/da41169f124f37f0-94/s2048x3072/92107f2e6d3241c458f309f019dd79a406e5b3a5.pnj" width="800" />
+<img src="https://github.com/prestonwillard/prestonwillard/blob/40cd0b354df876e9dce8b2bde3d1e66e22fdbb93/ezgif-3a8b939c17d8f4ef.gif" width="150" />
 </p>
-
+</sub>
